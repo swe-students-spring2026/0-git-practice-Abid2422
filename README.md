@@ -6,6 +6,8 @@ It is interesting becausse it doesn't only look at it from a technical point of 
 
 I think this perspective is valuable because it helps shift the focus from “what do I need to learn next?” to “how do I grow as a developer?”. That view is often missing yet it’s critical for long-term growth and satisfaction in this field.
 
+
+I agree with Ruby's point
 ## Comment from Ruby
 
 I like how this article frames software engineering as more than just coding. 
